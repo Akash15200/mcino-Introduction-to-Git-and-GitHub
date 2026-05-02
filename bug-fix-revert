@@ -1,0 +1,62 @@
+
+curl https://api.github.com/repos/Akash15200/mcino-Introduction-to-Git-and-GitHub/pulls?state=all                                                       
+ 
+   
+[  
+  {
+    "url": "https://api.github.com/repos/Akash15200/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+    "id": 3618408497,
+    "node_id": "PR_kwDOSSldXc7XrIgx",
+    "html_url": "https://github.com/Akash15200/mcino-Introduction-to-Git-and-GitHub/pull/1",
+    "diff_url": "https://github.com/Akash15200/mcino-Introduction-to-Git-and-GitHub/pull/1.diff",  
+    "patch_url": "https://github.com/Akash15200/mcino-Introduction-to-Git-and-GitHub/pull/1.patch",
+    "issue_url": "https://api.github.com/repos/Akash15200/mcino-Introduction-to-Git-and-GitHub/issues/1",
+    "number": 1,
+    "state": "closed",
+    "locked": false,
+    "title": "Fix typo",
+    "user": {
+      "login": "Akash15200",
+      "id": 120034823,
+      "node_id": "U_kgDOByeWBw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120034823?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Akash15200",
+      "html_url": "https://github.com/Akash15200",
+      "followers_url": "https://api.github.com/users/Akash15200/followers",
+      "following_url": "https://api.github.com/users/Akash15200/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Akash15200/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Akash15200/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Akash15200/subscriptions",
+      "organizations_url": "https://api.github.com/users/Akash15200/orgs",
+      "repos_url": "https://api.github.com/users/Akash15200/repos",
+      "events_url": "https://api.github.com/users/Akash15200/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Akash15200/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": null,
+    "created_at": "2026-05-02T18:14:18Z",
+    "updated_at": "2026-05-02T18:14:31Z",
+    "closed_at": "2026-05-02T18:14:31Z",
+    "merged_at": "2026-05-02T18:14:31Z",
+    "merge_commit_sha": "2d394b597a5dfaf8ad1a42ffddddeaaf4aa1ba26",
+    "assignees": [
+      
+    ],
+    "requested_reviewers": [
+      
+    ],
+    "requested_teams": [
+      
+    ],
+    "labels": [
+      
+    ],
+    "milestone": null,
+    "draft": false,
+    "commits_url": "https://api.github.com/repos/Akash15200/mcino-Introduction-to-Git-and-GitHub/pulls/1/commits",
+
+^G Get Help                      ^O WriteOut                      ^R Read File                     ^Y Prev Pg                       ^K Cut Text                      ^C Cur Pos                       
+^X Exit                          ^J Justify                       ^W Where is                      ^V Next Pg                       ^U UnCut Text                    ^T To Spell                      
